@@ -1,0 +1,80 @@
+﻿Title,Premiere,imdb_rating,imdb_votes,imdb_genre,imdb_year,imdb_type,year_diff,keep
+The Shakedown,08/08/2024,6.7,331,"Crime, Drama",1960,movie,64,n
+La CaÃ­da,11/11/2022,7,122,Drama,1959,movie,63,n
+Flo & Joan: Alive on Stage,19/08/2019,5.6,321,Comedy,1980,series,39,n
+For Love & Life: No Ordinary Campaign,28/05/2024,6.6,39393,"Drama, Romance, Sport",1999,movie,25,n
+Lano & Woodley: Fly,01/05/2020,8.8,830,Comedy,1997,series,23,n
+Frida,14/03/2024,7.3,100861,"Biography, Drama, Romance",2002,movie,22,n
+War of the Worlds,30/07/2025,6.6,502091,"Action, Adventure, Sci-Fi",2005,movie,20,n
+"Red, White & Royal Blue",11/08/2023,7,65825,"Comedy, Romance",2023,movie,0,y
+Water & Garri,10/05/2024,7.6,15660,Drama,2005,movie,19,n
+Libre,01/11/2024,5.9,101384,"Comedy, Family, Sport",2006,movie,18,n
+Robots,17/07/2023,6.4,173700,"Animation, Adventure, Comedy",2005,movie,18,n
+Cold Case,30/06/2021,7.7,34644,"Crime, Drama, Mystery",2003,series,18,n
+Picture This,06/03/2025,5.1,11378,"Comedy, Drama, Romance",2008,movie,17,n
+200 Pounds Beauty,22/06/2023,5.4,141,"Comedy, Music, and Romance",2023,movie,0,y
+Tomorrow Is Today,02/12/2022,7.1,260,"Drama, Romance",2006,movie,16,n
+Enemies,29/08/2025,6.9,333880,"Biography, Crime, Drama",2009,movie,16,n
+Duplicity,20/03/2025,6.1,53429,"Comedy, Crime, Romance",2009,movie,16,n
+Unstoppable,16/01/2025,5.8,36,"Drama, Sport",2025,movie,0,y
+Brothers,17/10/2024,7.1,170197,"Drama, Thriller, War",2009,movie,15,n
+Scandal Makers,19/01/2023,7.2,4475,"Comedy, Drama, Music",2008,movie,15,n
+The Red Virgin,05/12/2024,7.3,188,"Short, Drama",2011,movie,13,n
+Stolen,04/06/2025,5.5,47223,"Action, Crime, Thriller",2012,movie,13,n
+The Tiger,02/01/2026,6.5,15716,"Action, Drama, Thriller, War",2025,movie,1,y
+Law,17/07/2020,7.4,343332,"Action, Crime, Drama",2009,movie,11,n
+V,05/09/2020,6.8,60877,"Drama, Sci-Fi, Thriller",2009,series,11,n
+Zeta,20/03/2026,4.8,352,Drama,2016,movie,10,n
+Follow,18/07/2025,4.7,844,"Horror, Thriller",2015,movie,10,n
+Summer House,06/06/2026,6.6,1159,Reality-TV,2017,series,9,n
+Goodnight Mommy,16/09/2022,6.7,63611,"Horror, Mystery, Thriller",2014,movie,8,n
+Finding Joy,05/11/2025,6.3,751,Comedy,2018,series,7,n
+System,22/05/2026,7.8,16068,Drama,2019,movie,7,n
+Cinderella,03/09/2021,6.9,204139,"Adventure, Drama, Family",2015,movie,6,n
+Perfect Strangers,20/10/2022,7.7,76299,"Comedy, Drama, Thriller",2016,movie,6,n
+Home,19/08/2021,6.5,120478,"Animation, Adventure, Comedy",2015,movie,6,n
+Host,23/10/2025,6.5,45026,"Horror, Mystery",2020,movie,5,n
+The Tiger Mafia,14/08/2021,7.4,61,Documentary,2016,movie,5,n
+Vengeance,22/04/2026,6.8,41397,"Comedy, Music, Mystery",2022,movie,4,n
+Homestay,11/02/2022,6.4,323,"Drama, Fantasy, Mystery, and Romance",2022,movie,0,y
+Sara's,05/07/2021,5.9,2942,"Adventure, Drama, Mystery",2018,movie,3,n
+Burning,25/11/2021,7.4,85033,"Drama, Mystery, Thriller",2018,movie,3,n
+Man on the Run,27/02/2026,6.4,871,Documentary,2023,movie,3,n
+Emergency,20/05/2022,5.2,11245,"Biography, Drama, History",2025,movie,3,n
+1992,12/04/2025,5.7,3805,"Action, Drama, Thriller",2022,movie,3,n
+Sunny,23/09/2021,6.5,11439,"Comedy, Drama, Mystery",2024,series,3,n
+The Lie,06/10/2020,5.8,22215,"Crime, Drama, Mystery",2018,movie,2,n
+Kanan Gill & Kenny Sebastian: Sketchy Behaviour,14/02/2019,8,1612,Comedy,2017,movie,2,n
+Our Friend,18/03/2021,7.3,16090,"Drama, Romance",2019,movie,2,n
+Cirque Du Soleil: Without a Net,25/07/2024,6.6,287,Documentary,2022,movie,2,n
+Family Pack,17/02/2022,5.5,10535,"Adventure, Comedy, Fantasy",2024,movie,2,n
+The Seed,03/05/2023,4.8,2717,"Comedy, Horror, Sci-Fi",2021,movie,2,n
+Sentinelle,08/09/2023,4.8,8999,"Action, Drama, Thriller",2021,movie,2,n
+Run Sweetheart Run,28/10/2022,5.5,8107,"Horror, Thriller",2020,movie,2,n
+Sound of Metal,04/12/2020,7.7,183644,"Drama, Music",2019,movie,1,n
+Black Box,06/10/2020,7.2,19038,"Drama, Mystery, Thriller",2021,movie,1,n
+Get Duked!,28/08/2020,6.2,8970,"Comedy, Horror, Music",2019,movie,1,n
+Blow the Man Down,20/03/2020,6.4,12564,"Comedy, Crime, Drama",2019,movie,1,n
+Troop Zero,17/01/2020,6.9,12891,"Comedy, Drama, Family",2019,movie,1,n
+Peterloo,05/04/2019,6.5,5680,"Drama, History",2018,movie,1,n
+Guns Akimbo,23/03/2020,6.3,76431,"Action, Comedy, Crime",2019,movie,1,n
+Radioactive,24/07/2020,6.3,23792,"Biography, Drama, Romance",2019,movie,1,y
+Selah and the Spades,17/04/2020,5.1,1385,Drama,2019,movie,1,n
+The Vast of Night,29/05/2020,6.7,48305,"Drama, Mystery, Sci-Fi",2019,movie,1,n
+7500,18/06/2020,6.3,34203,"Action, Drama, Thriller",2019,movie,1,n
+One Night in Miami...,15/01/2021,7.1,35125,Drama,2020,movie,1,n
+The Boys in the Boat,29/03/2024,7,29396,"Biography, Drama, History",2023,movie,1,y
+Trunk â€“ Locked in,26/01/2024,5.3,1831,"Drama, Thriller",2023,movie,1,n
+Sirens,15/03/2024,6.7,35443,"Comedy, Drama",2025,series,1,n
+Foe,05/01/2024,5.4,12670,"Drama, Romance, Sci-Fi",2023,movie,1,y
+My Fault,08/06/2023,4.2,7120,"Crime, Drama, Thriller",2024,movie,1,y
+One Night Off,21/02/2022,5.4,1043,Comedy,2021,movie,1,n
+Master,18/03/2022,7.4,85662,"Action, Crime, Drama",2021,movie,1,n
+Flashback,11/11/2021,5.4,7654,"Drama, Mystery, Thriller",2020,movie,1,n
+The Tender Bar,07/01/2022,6.7,36714,"Biography, Drama, Romance",2021,movie,1,y
+Drishyam 2,19/02/2021,8.2,50543,"Crime, Drama, Mystery",2022,movie,1,n
+Landscape with Invisible Hand,09/01/2024,5.9,4189,"Comedy, Drama, Sci-Fi",2023,movie,1,y
+The Mehta Boys,07/02/2025,7.1,3010,Drama,2024,movie,1,n
+The Calendar Killer,16/01/2025,5.4,4475,"Crime, Thriller",2024,movie,1,y
+Broken Rage,13/02/2025,6.1,1755,"Comedy, Crime, Drama",2024,movie,1,n
+The Boy from MedellÃ­n,07/05/2021,6.1,683,"Documentary, Biography, Music",2020,movie,1,n
