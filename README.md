@@ -136,27 +136,37 @@ The project was completed using the following workflow:
 
 ### IMDb Rating Distribution
 
-![IMDb Rating Distribution](visuals/imdb_rating_distribution.png)
+<img width="2074" height="1407" alt="imdb_rating_distribution" src="https://github.com/user-attachments/assets/c91fc606-111e-44b4-b735-a0d0e09539d1" />
 
 ### Goodreads Rating vs IMDb Rating
 
-![Goodreads vs IMDb](visuals/goodreads_vs_imdb.png)
+<img width="2034" height="1638" alt="goodreads_vs_imdb" src="https://github.com/user-attachments/assets/ab323ccf-3e0d-4270-a7e6-f79bbf886fa0" />
+
 
 ### Movies vs Series Comparison
 
-![Movies vs Series](visuals/movies_vs_series.png)
+<img width="1710" height="1332" alt="movies_vs_series" src="https://github.com/user-attachments/assets/748cfbe3-6fc5-4b9f-baa7-58e89f860b43" />
+
+
 
 ### Platform Comparison
 
-![Platform Comparison](visuals/platform_comparison.png)
+<img width="1710" height="1332" alt="platform_comparison" src="https://github.com/user-attachments/assets/2a77fab8-eb70-4396-8072-b79c4df85727" />
+
+
+
 
 ### Genre Distribution Across Platforms
 
-![Platform Genre Comparison](visuals/platform_genre_comparison.png)
+<img width="2970" height="1765" alt="platform_genre_comparison" src="https://github.com/user-attachments/assets/48b72844-fb9c-4069-aebd-b26dc6efad4d" />
+
+
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](visuals/correlation_heatmap.png)
+<img width="2023" height="1350" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/c17add09-fe18-4fb9-9f69-c0ae9a3368ec" />
+
+
 
 
 ## Limitations
