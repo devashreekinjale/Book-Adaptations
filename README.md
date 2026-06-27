@@ -6,7 +6,7 @@ Streaming platforms such as Netflix and Amazon Prime Video increasingly rely on 
 
 This project presents a comparative analysis of book adaptations available on Netflix and Amazon Prime Video by integrating data from multiple sources, including Wikipedia, IMDb, and Goodreads. The study investigates adaptation quality, genre preferences, popularity, and the relationship between book ratings and screen adaptation ratings.
 
-The final dataset consists of **248 confirmed book adaptations** released between **2015 and 2026**.
+The final dataset consists of **249 confirmed book adaptations** released between **2015 and 2026**.
 
 
 ## Objectives
@@ -202,9 +202,15 @@ Potential extensions of this project include:
 * **Jupyter Notebook**
 * **OMDb API**
 
-
 ## Author
 
 **Devashree Kinjale**
 
 If you found this project interesting, feel free to explore the notebooks and visualizations included in this repository.
+
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+If you use or reference this work, please provide appropriate attribution.
